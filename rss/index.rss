@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>YogaVital</title>
+        <link>https://github.com/N1C0SM/YogaVital2.0</link>
+        <description>Yoga Vital es tu espacio de serenidad y fortaleza, donde cada asana te lleva a un viaje de autodescubrimiento y bienestar. Sumérgete en prácticas que nutren cuerpo y alma, y encuentra tu equilibrio perfecto para una vida más plena y saludable.</description>
+        <language>es-ES</language>
+        <item>
+          <title>⚽️ Mejora tu juego con estos consejos de entrenamiento de fútbol 🥅</title>
+          <link></link>
+          <description>El fútbol es un deporte que requiere una combinación de habilidades técnicas, tácticas, físicas y mentales. Aquí te explicamos cómo puedes mejorar en cada uno de estos aspectos:</description>
+          <category>Deporte</category>
+          <dcCreator>Nico</dcCreator>
+          <pubDate>Hace 5 minutos</pubDate>
+          <quid></quid>
+        </item>
+        <item>
+          <title>🏊Mejora tus estilos de natación con estos consejos 🏊‍♂️</title>
+          <link></link>
+          <description>La natación es un deporte completo que puede ayudarte a mejorar tu salud y tu forma física. Aquí te explicamos cómo puedes optimizar tus estilos de natación:</description>
+          <category>Deporte</category>
+          <dcCreator>Nico</dcCreator>
+          <pubDate>Hace 5 minutos</pubDate>
+          <quid></quid>
+        </item>
+        <item>
+          <title>🥾 Descubre las mejores rutas de senderismo 🌲</title>
+          <link></link>
+          <description>El senderismo es una actividad maravillosa que te permite explorar la naturaleza mientras haces ejercicio. Aquí te presentamos algunas rutas increíbles que puedes considerar:</description>
+          <category>Salud</category>
+          <dcCreator>Nico</dcCreator>
+          <pubDate>Hace 5 minutos</pubDate>
+          <quid></quid>
+        </item>
+        <item>
+          <title>Las ventajas de la bicicleta eléctrica 🌍</title>
+          <link></link>
+          <description>Las bicicletas eléctricas están ganando popularidad y no es de extrañar, ya que ofrecen numerosos beneficios...</description>
+          <category>Deporte</category>
+          <dcCreator>Nico</dcCreator>
+          <pubDate>Hace 5 minutos</pubDate>
+          <quid></quid>
+        </item>
+        <item>
+          <title>🧘‍️ Mejora tu vida con el Yoga 🧘‍♂️</title>
+          <link></link>
+          <description>El yoga es una práctica milenaria que puede aportarte numerosos beneficios, tanto físicos como mentales...</description>
+          <category>Salud</category>
+          <dcCreator>Nico</dcCreator>
+          <pubDate>Hace 5 minutos</pubDate>
+          <quid></quid>
+        </item>
+    </channel>
+</rss>
+
