@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>YogaVital</title>
-        <link>https://github.com/N1C0SM/YogaVital2.0</link>
-        <description>Yoga Vital es tu espacio de serenidad y fortaleza, donde cada asana te lleva a un viaje de autodescubrimiento y bienestar. Sumérgete en prácticas que nutren cuerpo y alma, y encuentra tu equilibrio perfecto para una vida más plena y saludable.</description>
+        <title>MundoDeporte</title>
+        <link>https://github.com/N1C0SM/mundoDeporte</link>
+        <description>MundoDeporte se presenta como un blog especializado en la cobertura del universo deportivo. Abarcando desde fútbol, natación, atletismo, hasta disciplinas menos convencionales como el yoga, este portal ofrece noticias actualizadas, análisis profundos, entrevistas exclusivas y reportajes especiales. Con un enfoque en ofrecer contenido de calidad, el blog apunta a satisfacer las necesidades informativas de una audiencia diversa, incluyendo aficionados y profesionales del deporte. La plataforma se distingue por su diseño escepcional tanto para dispositivos móviles y tablets, como ordenadores de sobremesa, haciendo de cada artículo una lectura valiosa y agradable en cualquier aparato electrónico.</description>
         <language>es-ES</language>
         <item>
           <title>⚽️ Mejora tu juego con estos consejos de entrenamiento de fútbol 🥅</title>
@@ -12,7 +12,7 @@
           <category>Deporte</category>
           <dcCreator>Nico</dcCreator>
           <pubDate>Hace 5 minutos</pubDate>
-          <quid></quid>
+          <quid>01</quid>
         </item>
         <item>
           <title>🏊Mejora tus estilos de natación con estos consejos 🏊‍♂️</title>
@@ -21,7 +21,7 @@
           <category>Deporte</category>
           <dcCreator>Nico</dcCreator>
           <pubDate>Hace 5 minutos</pubDate>
-          <quid></quid>
+          <quid>02</quid>
         </item>
         <item>
           <title>🥾 Descubre las mejores rutas de senderismo 🌲</title>
@@ -30,7 +30,7 @@
           <category>Salud</category>
           <dcCreator>Nico</dcCreator>
           <pubDate>Hace 5 minutos</pubDate>
-          <quid></quid>
+          <quid>03</quid>
         </item>
         <item>
           <title>Las ventajas de la bicicleta eléctrica 🌍</title>
@@ -39,7 +39,7 @@
           <category>Deporte</category>
           <dcCreator>Nico</dcCreator>
           <pubDate>Hace 5 minutos</pubDate>
-          <quid></quid>
+          <quid>04</quid>
         </item>
         <item>
           <title>🧘‍️ Mejora tu vida con el Yoga 🧘‍♂️</title>
