@@ -7,7 +7,7 @@
         <language>es-ES</language>
         <item>
           <title>⚽️ Mejora tu juego con estos consejos de entrenamiento de fútbol 🥅</title>
-          <link></link>
+          <link>https://n1c0sm.github.io/mundoDeporte/football.html</link>
           <description>El fútbol es un deporte que requiere una combinación de habilidades técnicas, tácticas, físicas y mentales. Aquí te explicamos cómo puedes mejorar en cada uno de estos aspectos:</description>
           <category>Deporte</category>
           <dcCreator>Nico</dcCreator>
@@ -16,7 +16,7 @@
         </item>
         <item>
           <title>🏊Mejora tus estilos de natación con estos consejos 🏊‍♂️</title>
-          <link></link>
+          <link>https://n1c0sm.github.io/mundoDeporte/swimming.html</link>
           <description>La natación es un deporte completo que puede ayudarte a mejorar tu salud y tu forma física. Aquí te explicamos cómo puedes optimizar tus estilos de natación:</description>
           <category>Deporte</category>
           <dcCreator>Nico</dcCreator>
@@ -25,7 +25,7 @@
         </item>
         <item>
           <title>🥾 Descubre las mejores rutas de senderismo 🌲</title>
-          <link></link>
+          <link>https://n1c0sm.github.io/mundoDeporte/hiking.html</link>
           <description>El senderismo es una actividad maravillosa que te permite explorar la naturaleza mientras haces ejercicio. Aquí te presentamos algunas rutas increíbles que puedes considerar:</description>
           <category>Salud</category>
           <dcCreator>Nico</dcCreator>
@@ -34,7 +34,7 @@
         </item>
         <item>
           <title>Las ventajas de la bicicleta eléctrica 🌍</title>
-          <link></link>
+          <link>https://n1c0sm.github.io/mundoDeporte/cycling.html</link>
           <description>Las bicicletas eléctricas están ganando popularidad y no es de extrañar, ya que ofrecen numerosos beneficios...</description>
           <category>Deporte</category>
           <dcCreator>Nico</dcCreator>
@@ -43,12 +43,12 @@
         </item>
         <item>
           <title>🧘‍️ Mejora tu vida con el Yoga 🧘‍♂️</title>
-          <link></link>
+          <link>https://n1c0sm.github.io/mundoDeporte/yoga.html</link>
           <description>El yoga es una práctica milenaria que puede aportarte numerosos beneficios, tanto físicos como mentales...</description>
           <category>Salud</category>
           <dcCreator>Nico</dcCreator>
           <pubDate>Hace 5 minutos</pubDate>
-          <quid></quid>
+          <quid>05</quid>
         </item>
     </channel>
 </rss>
